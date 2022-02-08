@@ -9,3 +9,6 @@ Firebase/Firestore DB, Firebase Auth, React.js, Semantic UI, Context API, CRUD O
 - On the Domain View page, the provider and expiry dates of all domains added were listed, and deletion and update operations were performed with the delete and update buttons.
 - Domains with an expiry date of less than 15 days were shown in red, those with less than 60 days in orange and those with less than 100 days in green.
 - Domains with an expiry date of less than 15 days were displayed as a warning on the homepage. 
+
+You can view the page via following netlify.app link:
+- https://domains-list-app-by-at.netlify.app/
